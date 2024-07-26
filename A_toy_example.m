@@ -38,7 +38,7 @@ yTensor = orgTensor.*observe_idx + NoiseT.*(1-observe_idx);
 % get observation index
 Map = observe_idx; % binary tensor
 
-%% set hyper-parameters for model;
+%% set hyper-parameters for the model;
 hyperparameters.alpha_tau_0 = 1e-6;
 hyperparameters.beta_tau_0 = 1e-6;
 hyperparameters.alpha_lambda_0 = 1e-6;

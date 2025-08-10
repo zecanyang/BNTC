@@ -16,7 +16,7 @@ A_toy_example.m
 ## Descriptions of the files in this repository
 
  - *A_toy_example.m* provides example usage of BNTC for synthetic data recovery.
- - *BayesianNNCP_Gibbs.m* implements BNTC described as Alg.1 in the [manuscript]().
+ - *BayesianNNCP_Gibbs.m* implements BNTC described as Alg.1 in the [Paper](https://ieeexplore.ieee.org/document/10918321/).
 
 
 
